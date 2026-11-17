@@ -38,7 +38,7 @@ Selecting a technique opens a detail panel with descriptions, associated rules, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/ibluteam-detection-coverage.git
+git clone https://github.com/r4aul70/ibluteam-detection-coverage.git
 cd ibluteam-detection-coverage
 ```
 
